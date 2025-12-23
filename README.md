@@ -16,15 +16,19 @@ Todo o conteúdo foi desenvolvido com o suporte do Notebook LM, utilizando exclu
 
 ### 📘 Questionário de Cibersegurança
 Um conjunto de perguntas técnicas para avaliação e revisão de conceitos relacionados aos frameworks e normas do NIST.
+https://notebooklm.google.com/notebook/e3dcf47a-9930-4881-8742-a4100401dbe8?artifactId=0b49c2ce-eb08-4608-bf05-7aaec279f2f8
 
 ### 🧠 Flashcards
 Flashcards técnicos para memorização ativa de conceitos-chave em governança, gestão de riscos e segurança da informação.
+https://notebooklm.google.com/notebook/e3dcf47a-9930-4881-8742-a4100401dbe8?artifactId=56b84a74-d088-4d79-810a-45ac91dcee7a
 
 ### 🗺️ Mapa Mental
 Um mapa mental que estrutura visualmente os principais frameworks, normas e as inter-relações entre CSF, RMF, SPs e AI RMF.
 
+
 ### 📊 Apresentação em Slides
 Uma apresentação estruturada a partir do conteúdo do curso, ideal para treinamentos, palestras e apresentações técnicas.
+https://notebooklm.google.com/notebook/e3dcf47a-9930-4881-8742-a4100401dbe8?artifactId=3e81aa21-e73f-4712-8e2f-82f70f4901b5
 
 ## 📁 Estrutura do Repositório
 - `quizzes/`
